@@ -5,7 +5,6 @@
 ## 📌 Overview
 🔹 Implements a RAG pipeline for enhanced information retrieval
 🔹 Uses Mistral 7B-Instruct v0.3 as the LLM for response generation
-🔹 Stores processed textbook data in a vector database
 🔹 Allows users to ask astronomy-related questions and receive AI-generated responses
 🔹 The chatbot is not deployed – it runs entirely within the provided notebook
 
@@ -20,3 +19,6 @@
 🔹 This is a code repository – the chatbot is not deployed.
 🔹 The notebook allows testing the chatbot within a local/Colab environment.
 🔹 Ensure you have access to the Astronomy 2e textbook to generate embeddings.
+
+## Acknowledgement and References
+🔹[RAG from scratch - Daniel Brouke](https://www.youtube.com/watch?v=qN_2fnOPY-M)
